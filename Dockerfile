@@ -1,4 +1,4 @@
-FROM FROM registry.access.redhat.com/ubi8/openjdk-8
+FROM registry.access.redhat.com/ubi8/openjdk-8
 
 MAINTAINER tech-tejendra
 
