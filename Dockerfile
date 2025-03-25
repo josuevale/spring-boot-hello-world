@@ -1,4 +1,4 @@
-FROM quay.io/eclipse/che-java8-maven:nightly
+FROM FROM registry.access.redhat.com/ubi8/openjdk-8
 
 MAINTAINER tech-tejendra
 
